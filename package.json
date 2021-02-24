@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@types/express": "^4.17.11",
     "express": "^4.17.1",
     "node-dev": "^6.3.0"
   },
@@ -9,7 +10,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "node-dev":"node-dev app.js"
+    "node-dev": "node-dev app.js"
   },
   "repository": {
     "type": "git",
